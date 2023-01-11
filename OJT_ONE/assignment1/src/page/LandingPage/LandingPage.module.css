@@ -1,0 +1,47 @@
+
+.landing {
+    background-image: url("../../assets/img\ 1.jpg");
+    background-size:cover;
+    width: 100%;
+    height: 700px;
+    color: rgb(124, 105, 124);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.title {
+    text-align: center;
+    font-size: 40px;
+}
+.aboutus{
+    font-size: 25px;
+}
+/* .bttnone {
+    
+    border-radius: 14px;
+    
+    width: 80px;
+    height: 38px;
+    border: none;
+    background-color: rgba(179, 177, 177, 0.918);
+    font-size: 14px;
+    font-weight: bold;
+} */
+.bttnone:hover {
+    background-color: rgb(141, 143, 142);
+    font-weight: bold;
+}
+.landing h1 {
+    margin-left: 3%;
+    /* margin-top: 1%; */
+    text-shadow: 2px 2px #111010;
+    display: inline-block;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.landing h2 {
+    margin-left: 13%;
+    text-align: center;
+    display: inline-block;
+    color: black;
+    font-size: 40px ;
+}
+
